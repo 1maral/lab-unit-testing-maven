@@ -52,3 +52,5 @@ public class SampleMethodsExperiments {
     pen.println("\"" + tmp + "\"");
   } // removeAsExperiment(PrintWriter, String)
 } // class SampleMethodsExperiment
+
+//Exercise 1a: Continue the programm aftr the breakpoint.
